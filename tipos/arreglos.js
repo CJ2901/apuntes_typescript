@@ -4,3 +4,4 @@
     const villains = ['Omega Red', 'Doomsday', 'Dr Doom', 'Green Goblin'];
     villains.forEach(v => console.log(v.toUpperCase()));
 })();
+//# sourceMappingURL=arreglos.js.map

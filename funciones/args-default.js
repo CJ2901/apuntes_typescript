@@ -11,3 +11,4 @@
     const name = fullName('Peter');
     console.log({ name });
 })();
+//# sourceMappingURL=args-default.js.map

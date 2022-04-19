@@ -9,3 +9,4 @@
     error('Ayuda!');
     console.log('Hola Mundo');
 })();
+//# sourceMappingURL=never.js.map

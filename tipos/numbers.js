@@ -10,6 +10,6 @@
         console.log('Nos salvamos');
     }
     avengers = Number('55A');
-    // Dará NaN
     console.log({ avengers });
 })();
+//# sourceMappingURL=numbers.js.map

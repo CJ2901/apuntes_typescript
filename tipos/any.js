@@ -10,3 +10,4 @@
     console.log(exists);
     console.log(power);
 })();
+//# sourceMappingURL=any.js.map
